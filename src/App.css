@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    margin-top: 80px;
+    font-size:50px;
+}
+.cards{
+    text-align: center;
+    margin:0 auto;
+    padding:25px;
+    background-color: gainsboro;
+    font-size:28px;
+    border-radius:5px;
+    box-shadow: 5px 5px #888888; 
+    width: 25%;
+}
+.btn{
+    margin-left:650px;
+    padding:2px;
+    border-radius: 4px;
+}
+input{
+    border-radius: 2px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
